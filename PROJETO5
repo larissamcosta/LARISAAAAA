@@ -1,0 +1,9 @@
+Em teoria dos grafos, um grafo é uma estrutura composta por vértices (também chamados de nós) e arestas, que são conexões entre esses vértices. Os grafos podem ser direcionados (arestas têm uma direção) ou não direcionados. Eles são usados em diversas áreas da ciência da computação e têm aplicações significativas no contexto tecnológico.
+
+*Exemplos de utilização de grafos no contexto tecnológico:*
+
+1. *Redes Sociais:*
+   - *Descrição:* Redes sociais, como Facebook, Twitter e LinkedIn, utilizam grafos para modelar as relações entre usuários. Cada usuário é representado por um vértice, e as conexões entre usuários (amizades, seguidores, conexões profissionais, etc.) são representadas por arestas. Essa representação facilita a análise de redes sociais, recomendações de amizades e personalização de conteúdo.
+
+2. *Roteamento de Redes:*
+   - *Descrição:* Em redes de computadores, os grafos são usados para modelar a topologia da rede, onde os dispositivos (como roteadores e switches) são representados por vértices e as conexões de rede por arestas. Algoritmos de roteamento, como o algoritmo de Dijkstra, usam grafos para encontrar o caminho mais curto entre dois pontos em uma rede.
